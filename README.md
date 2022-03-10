@@ -22,17 +22,17 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Jan Cyrus M. Villar</o:Author>
   <o:LastAuthor>Jan Cyrus M. Villar</o:LastAuthor>
-  <o:Revision>13</o:Revision>
-  <o:TotalTime>219</o:TotalTime>
+  <o:Revision>16</o:Revision>
+  <o:TotalTime>221</o:TotalTime>
   <o:LastPrinted>2022-03-10T08:00:00Z</o:LastPrinted>
   <o:Created>2022-03-10T08:37:00Z</o:Created>
-  <o:LastSaved>2022-03-10T08:46:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>508</o:Words>
-  <o:Characters>2899</o:Characters>
-  <o:Lines>24</o:Lines>
+  <o:LastSaved>2022-03-10T08:57:00Z</o:LastSaved>
+  <o:Pages>13</o:Pages>
+  <o:Words>502</o:Words>
+  <o:Characters>2865</o:Characters>
+  <o:Lines>23</o:Lines>
   <o:Paragraphs>6</o:Paragraphs>
-  <o:CharactersWithSpaces>3401</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>3361</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -45,9 +45,8 @@ target="Chroma_readme_files/props044.xml">
 <link rel=colorSchemeMapping href="Chroma_readme_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>120</w:Zoom>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
+  <w:View>Print</w:View>
+  <w:Zoom>130</w:Zoom>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -769,7 +768,6 @@ h3
 	mso-fareast-theme-font:minor-fareast;}
 p.MsoToc1, li.MsoToc1, div.MsoToc1
 	{mso-style-update:auto;
-	mso-style-noshow:yes;
 	mso-style-priority:39;
 	mso-style-next:Normal;
 	margin-top:0in;
@@ -778,13 +776,13 @@ p.MsoToc1, li.MsoToc1, div.MsoToc1
 	margin-left:0in;
 	line-height:200%;
 	mso-pagination:widow-orphan;
+	tab-stops:right dotted 467.5pt;
 	font-size:12.0pt;
 	font-family:"Arial",sans-serif;
 	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;}
 p.MsoToc2, li.MsoToc2, div.MsoToc2
 	{mso-style-update:auto;
-	mso-style-noshow:yes;
 	mso-style-priority:39;
 	mso-style-next:Normal;
 	margin-top:0in;
@@ -799,7 +797,6 @@ p.MsoToc2, li.MsoToc2, div.MsoToc2
 	mso-fareast-theme-font:minor-latin;}
 p.MsoToc3, li.MsoToc3, div.MsoToc3
 	{mso-style-update:auto;
-	mso-style-noshow:yes;
 	mso-style-priority:39;
 	mso-style-next:Normal;
 	margin-top:0in;
@@ -834,8 +831,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter
 	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;}
 a:link, span.MsoHyperlink
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
+	{mso-style-priority:99;
 	color:#0563C1;
 	mso-themecolor:hyperlink;
 	text-decoration:underline;
@@ -1170,170 +1166,172 @@ table.MsoTableGrid
 <body lang=EN-US link="#0563C1" vlink="#954F72" style='tab-interval:.5in;
 word-wrap:break-word'>
 
-<div class=WordSection1><w:Sdt SdtDocPart="t" DocPartType="Table of Contents"
- DocPartUnique="t" ID="446824858">
- <p class=MsoTocHeading style='line-height:normal'><span class=Heading1Char><span
- style='font-size:11.0pt;color:windowtext'>TABLE OF CONTENTS<o:p></o:p></span></span><span
- style='font-size:14.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
- Calibri;mso-fareast-theme-font:minor-latin;color:windowtext'><w:sdtPr></w:sdtPr></span></p>
- <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><o:p>&nbsp;</o:p></p>
- <p class=MsoToc1 style='line-height:normal;tab-stops:right dotted 467.5pt'><!--[if supportFields]><span
+<div class=WordSection1>
+
+<h1><a name="_Toc97823857"><span class=Heading1Char>TABLE OF CONTENTS</span></a><span
+class=Heading1Char><o:p></o:p></span></h1>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+class=Heading1Char><span style='font-weight:normal'><o:p>&nbsp;</o:p></span></span></p>
+
+<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
+ ID="446824858">
+ <p class=MsoToc1 style='line-height:normal'><!--[if supportFields]><span
  style='font-size:11.0pt'><span style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \n \h \z \u <span
  style='mso-element:field-separator'></span></span><![endif]--><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822957">ABOUT
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823858">ABOUT
  THE GAME</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
- mso-no-proof:yes'><o:p></o:p></span></p>
- <p class=MsoToc1 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822958">GAME
- FEATURES</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
- mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
- mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
- mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
- mso-no-proof:yes'><o:p></o:p></span></p>
- <p class=MsoToc1 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822959">GAME
- PLOT</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
- mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
- mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
- mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
- mso-no-proof:yes'><o:p></o:p></span></p>
- <p class=MsoToc1 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822960">HOW
- TO PLAY</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
- mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
- mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
- mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
- mso-no-proof:yes'><o:p></o:p></span></p>
- <p class=MsoToc1 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822961">GAME
- FLOW</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
- mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
- mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
- mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
- mso-no-proof:yes'><o:p></o:p></span></p>
+ mso-no-proof:yes'><o:p></o:p></span><span style='font-size:14.0pt;font-family:
+ "Calibri",sans-serif;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+ mso-bidi-font-family:Arial'><w:sdtPr></w:sdtPr></span></p>
+ <p class=MsoToc1 style='line-height:normal'><span class=MsoHyperlink><span
+ style='mso-no-proof:yes'><a href="#_Toc97823859">GAME FEATURES</a></span></span><span
+ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+ minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
+ minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+ mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1 style='line-height:normal'><span class=MsoHyperlink><span
+ style='mso-no-proof:yes'><a href="#_Toc97823860">GAME PLOT</a></span></span><span
+ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+ minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
+ minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+ mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1 style='line-height:normal'><span class=MsoHyperlink><span
+ style='mso-no-proof:yes'><a href="#_Toc97823861">HOW TO PLAY</a></span></span><span
+ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+ minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
+ minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+ mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=MsoToc1 style='line-height:normal'><span class=MsoHyperlink><span
+ style='mso-no-proof:yes'><a href="#_Toc97823862">GAME FLOW</a></span></span><span
+ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
+ minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
+ minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+ mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822962">Willow
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823863">Willow
  Wrath Sprite Sheet</a></span></span><span style='font-size:11.0pt;font-family:
  "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
  "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
  minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822963">Willow
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823864">Willow
  Wrath (Red) Sprite Sheet</a></span></span><span style='font-size:11.0pt;
  font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
  "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
  minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822964">Esse
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823865">Esse
  (Player) Animation Flow</a></span></span><span style='font-size:11.0pt;
  font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
  "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
  minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822965">Willow
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823866">Willow
  Wrath Animation Flow</a></span></span><span style='font-size:11.0pt;
  font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
  "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
  minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822966">Willow
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823867">Willow
  Wrath (Red) Animation Flow</a></span></span><span style='font-size:11.0pt;
  font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
  "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
  minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc2 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822967">SCREENSHOTS</a></span></span><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823868">SCREENSHOTS</a></span></span><span
  style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
  minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
  minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
  mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822968">Main
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823869">Main
  Menu</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822969">Settings
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823870">Settings
  Menu</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822970">New
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823871">New
  Game</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822971">World
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823872">World
  1</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822972">World
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823873">World
  2</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822973">Pause
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823874">Pause
  Menu</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822974">Attack</a></span></span><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823875">Attack</a></span></span><span
  style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
  minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
  minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
  mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822975">Death</a></span></span><span
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823876">Death</a></span></span><span
  style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
  minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
  minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
  mso-bidi-theme-font:minor-bidi;mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoToc3 style='line-height:normal;tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97822976">Game
+ class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc97823877">Game
  Over Screen</a></span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";
  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
  mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  mso-no-proof:yes'><o:p></o:p></span></p>
  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><!--[if supportFields]><span
- style='font-size:11.0pt'><span style='mso-element:field-end'></span></span><![endif]--><o:p>&nbsp;</o:p></p>
+ style='font-size:11.0pt'><span style='mso-element:field-end'></span></span><![endif]--><span
+ style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></p>
 </w:Sdt>
 
-<h1 style='line-height:normal'><a name="_Toc97822957"><span style='mso-fareast-font-family:
+<h1 style='line-height:normal'><a name="_Toc97823858"><span style='mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'>ABOUT THE GAME</span></a><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h1>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in;line-height:normal'><span style='font-size:11.0pt'>Chroma is an adventure-fighting
-role-playing game that focuses on finding the meaning of oneself. Throughout
-the game, the main character named Esse will explore the three worlds as she
-fights the negativities in her mind and strive to attain peace in her life. The
-game has 3 world levels from which the colors purple, yellow, and red will
-bring diversity from it.<o:p></o:p></span></p>
+.5in;line-height:normal'><span style='font-size:11.0pt'>Chroma is an
+adventure-fighting role-playing game that focuses on finding the meaning of
+oneself. Throughout the game, the main character named Esse will explore the
+three worlds as she fights the negativities in her mind and strive to attain
+peace in her life. The game has 3 world levels from which the colors purple,
+yellow, and red will bring diversity from it.<o:p></o:p></span></p>
 
-<h1 style='line-height:normal'><a name="_Toc97822958"><span style='mso-fareast-font-family:
+<h1 style='line-height:normal'><a name="_Toc97823859"><span style='mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'>GAME FEATURES</span></a><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h1>
 
@@ -1379,10 +1377,10 @@ mso-bidi-font-family:"Segoe UI Emoji"'>&#128128;</span><span style='font-size:
 auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 style='font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
 style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:11.0pt'>Challenge yourself
-by discovering a way out of the Chained Depths. </span><span style='font-size:
-11.0pt;font-family:"Segoe UI Symbol",sans-serif;mso-bidi-font-family:"Segoe UI Symbol"'>&#9939;</span><span
-style='font-size:11.0pt'>&#65039;<o:p></o:p></span></p>
+</span></span></span><![endif]><span style='font-size:11.0pt'>Challenge
+yourself by discovering a way out of the Chained Depths. </span><span
+style='font-size:11.0pt;font-family:"Segoe UI Symbol",sans-serif;mso-bidi-font-family:
+"Segoe UI Symbol"'>&#9939;</span><span style='font-size:11.0pt'>&#65039;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;mso-add-space:
 auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
@@ -1413,7 +1411,7 @@ configurations, virtual joystick, and external controller support. </span><span
 style='font-size:11.0pt;font-family:"Segoe UI Emoji",sans-serif;mso-bidi-font-family:
 "Segoe UI Emoji"'>&#127918;</span><span style='font-size:11.0pt'><o:p></o:p></span></p>
 
-<h1 style='line-height:normal'><a name="_Toc97822959"><span style='mso-fareast-font-family:
+<h1 style='line-height:normal'><a name="_Toc97823860"><span style='mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'>GAME PLOT</span></a><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h1>
 
@@ -1426,7 +1424,7 @@ negativity to get the feeling of wanting to live again. The world you’re
 fighting in is none other than the inside of your mind, so breakthrough and
 survive to reach the remaining light inside.<o:p></o:p></span></p>
 
-<h1 style='line-height:normal'><a name="_Toc97822960"><span style='mso-fareast-font-family:
+<h1 style='line-height:normal'><a name="_Toc97823861"><span style='mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'>HOW TO PLAY</span></a><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h1>
 
@@ -1439,7 +1437,7 @@ there are jump styles with a unique flow of mechanics helping you move from
 place to place. Last, there will be other surprises as you go from platform to
 platform.<o:p></o:p></span></p>
 
-<h1 style='line-height:normal'><a name="_Toc97822961"><span style='mso-fareast-font-family:
+<h1 style='line-height:normal'><a name="_Toc97823862"><span style='mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'>GAME FLOW</span></a><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h1>
 
@@ -1468,7 +1466,7 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  style='width:320.4pt;height:569.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=427 height=759
-src="Chroma_readme_files/image036.png" v:shapes="Picture_x0020_36"><![endif]></span><b><span
+src="Chroma_readme_files/image002.png" v:shapes="Picture_x0020_36"><![endif]></span><b><span
 style='font-size:11.0pt'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
@@ -1484,7 +1482,7 @@ yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_1" o:spid="_x0000_i1042"
 src="Chroma_readme_files/image003.png" v:shapes="Picture_x0020_1"><![endif]></span></b><b><span
 style='font-size:11.0pt'><o:p></o:p></span></b></p>
 
-<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822962"><span
+<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823863"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Willow Wrath Sprite Sheet</span></a><span style='font-size:11.0pt;
 mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h2>
@@ -1498,7 +1496,7 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
 src="Chroma_readme_files/image005.png" v:shapes="Picture_x0020_2"><![endif]></span><span
 style='font-size:11.0pt'><o:p></o:p></span></p>
 
-<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822963"><span
+<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823864"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Willow Wrath (Red) Sprite Sheet</span></a><span style='font-size:
 11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h2>
@@ -1509,10 +1507,10 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image007.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=321
-src="Chroma_readme_files/image038.png" v:shapes="Picture_x0020_3"><![endif]></span><span
+src="Chroma_readme_files/image004.png" v:shapes="Picture_x0020_3"><![endif]></span><span
 style='font-size:11.0pt'><o:p></o:p></span></p>
 
-<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822964"><span
+<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823865"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Esse (Player) Animation Flow</span></a><span style='font-size:
 11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h2>
@@ -1523,11 +1521,11 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468.6pt;height:201pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image009.png" o:title="Diagram&#10;&#10;Description automatically generated with medium confidence"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=625 height=268
-src="Chroma_readme_files/image039.png"
+src="Chroma_readme_files/image006.png"
 alt="Diagram&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_17"><![endif]></span><span style='font-size:11.0pt'><o:p></o:p></span></p>
 
-<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822965"><span
+<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823866"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Willow Wrath Animation Flow</span></a><span style='font-size:11.0pt;
 mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h2>
@@ -1538,11 +1536,11 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468.6pt;height:201pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image011.png" o:title="A picture containing box and whisker chart&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=625 height=268
-src="Chroma_readme_files/image040.png"
+src="Chroma_readme_files/image008.png"
 alt="A picture containing box and whisker chart&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_18"><![endif]></span><span style='font-size:11.0pt'><o:p></o:p></span></p>
 
-<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822966"><span
+<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823867"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Willow Wrath (Red) Animation Flow</span></a><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
@@ -1554,16 +1552,16 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468.6pt;height:201pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image013.png" o:title="A picture containing timeline&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=625 height=268
-src="Chroma_readme_files/image041.png"
+src="Chroma_readme_files/image010.png"
 alt="A picture containing timeline&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_20"><![endif]></span><span style='font-size:11.0pt'><o:p></o:p></span></p>
 
-<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822967"><span
+<h2 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823868"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>SCREENSHOTS</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h2>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822968"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823869"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Main Menu</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1574,18 +1572,18 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_21"
  style='width:447.6pt;height:252pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image015.png" o:title="A picture containing text, indoor, close&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=597 height=336
-src="Chroma_readme_files/image042.png"
+src="Chroma_readme_files/image012.png"
 alt="A picture containing text, indoor, close&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_21"><![endif]><!--[if gte vml 1]><v:shape id="Picture_x0020_22"
  o:spid="_x0000_i1035" type="#_x0000_t75" alt="A picture containing text&#10;&#10;Description automatically generated"
  style='width:447.6pt;height:252pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image017.png" o:title="A picture containing text&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=597 height=336
-src="Chroma_readme_files/image043.png"
+src="Chroma_readme_files/image014.png"
 alt="A picture containing text&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_22"><![endif]></span></p>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822969"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823870"><span
 style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'>Settings
 Menu</span></a><span style='mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'><o:p></o:p></span></h3>
@@ -1596,12 +1594,12 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_24"
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image019.png" o:title="A screenshot of a video game&#10;&#10;Description automatically generated with medium confidence"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image044.png"
+src="Chroma_readme_files/image016.png"
 alt="A screenshot of a video game&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_24"><![endif]></span></p>
 
 <h3 style='margin-top:12.0pt;margin-right:0in;margin-bottom:0in;margin-left:
-0in;line-height:normal'><a name="_Toc97822970"><span style='font-size:11.0pt;
+0in;line-height:normal'><a name="_Toc97823871"><span style='font-size:11.0pt;
 mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'>New Game</span></a><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'><o:p></o:p></span></h3>
@@ -1612,11 +1610,11 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_25"
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image021.png" o:title="A picture containing text, dark&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image045.png"
+src="Chroma_readme_files/image018.png"
 alt="A picture containing text, dark&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_25"><![endif]></span></p>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822971"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823872"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>World 1</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1627,9 +1625,9 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_26"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image023.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image046.png" v:shapes="Picture_x0020_26"><![endif]></span></p>
+src="Chroma_readme_files/image020.png" v:shapes="Picture_x0020_26"><![endif]></span></p>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822972"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823873"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>World 2</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1640,11 +1638,11 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image025.png" o:title="A picture containing text, light, lit, dark&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image047.png"
+src="Chroma_readme_files/image022.png"
 alt="A picture containing text, light, lit, dark&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_35"><![endif]></span></p>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822973"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823874"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Pause Menu</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1655,11 +1653,11 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image027.png" o:title="A screenshot of a video game&#10;&#10;Description automatically generated with medium confidence"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image048.png"
+src="Chroma_readme_files/image024.png"
 alt="A screenshot of a video game&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_30"><![endif]></span></p>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822974"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823875"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Attack</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1670,7 +1668,7 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_31"
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image029.png" o:title="A picture containing outdoor, light&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image049.png"
+src="Chroma_readme_files/image026.png"
 alt="A picture containing outdoor, light&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_31"><![endif]></span><span style='font-size:11.0pt;
 mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_33" o:spid="_x0000_i1028"
@@ -1678,11 +1676,11 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_33" o:spid="_x00
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image031.png" o:title="A picture containing light, dark&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image050.png"
+src="Chroma_readme_files/image028.png"
 alt="A picture containing light, dark&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_33"><![endif]></span></p>
 
-<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97822975"><span
+<h3 style='margin-bottom:0in;line-height:normal'><a name="_Toc97823876"><span
 style='font-size:11.0pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
 minor-latin'>Death</span></a><span style='font-size:11.0pt;mso-fareast-font-family:
 Calibri;mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1693,12 +1691,12 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_28"
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image033.png" o:title="A crowd of people at a concert&#10;&#10;Description automatically generated with medium confidence"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image051.png"
+src="Chroma_readme_files/image030.png"
 alt="A crowd of people at a concert&#10;&#10;Description automatically generated with medium confidence"
 v:shapes="Picture_x0020_28"><![endif]></span></p>
 
 <h3 style='margin-top:12.0pt;margin-right:0in;margin-bottom:0in;margin-left:
-0in;line-height:normal'><a name="_Toc97822976"><span style='font-size:11.0pt;
+0in;line-height:normal'><a name="_Toc97823877"><span style='font-size:11.0pt;
 mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'>Game Over
 Screen</span></a><span style='font-size:11.0pt;mso-fareast-font-family:Calibri;
 mso-fareast-theme-font:minor-latin'><o:p></o:p></span></h3>
@@ -1709,7 +1707,7 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image035.png" o:title="A picture containing text, clock, dark, device&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image052.png"
+src="Chroma_readme_files/image032.png"
 alt="A picture containing text, clock, dark, device&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_29"><![endif]></span><span style='font-size:11.0pt'><o:p></o:p></span></p>
 
@@ -1722,7 +1720,7 @@ style='font-size:11.0pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  style='width:468pt;height:263.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Chroma_readme_files/image037.png" o:title="A screenshot of a video game&#10;&#10;Description automatically generated"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=624 height=351
-src="Chroma_readme_files/image053.png"
+src="Chroma_readme_files/image034.png"
 alt="A screenshot of a video game&#10;&#10;Description automatically generated"
 v:shapes="Picture_x0020_32"><![endif]></span><span style='font-size:11.0pt'><o:p></o:p></span></p>
 
