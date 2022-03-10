@@ -1173,9 +1173,6 @@ class=Heading1Char><o:p></o:p></span></h1>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 class=Heading1Char><span style='font-weight:normal'><o:p>&nbsp;</o:p></span></span></p>
-
-<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
- ID="446824858">
  <p class=MsoToc1 style='line-height:normal'><!--[if supportFields]><span
  style='font-size:11.0pt'><span style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \n \h \z \u <span
